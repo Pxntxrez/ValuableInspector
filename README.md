@@ -1,6 +1,3 @@
-description: "Displays info about the valuable you're holding. Client-side only. Supports modded items."
-
----
 ## ⚠️ IMPORTANT NOTICE: CLIENT-SIDE MOD ⚠️  
 **This mod is entirely client-side and does not affect gameplay or networking.**  
 Other players do **not** need to install it for it to work properly in multiplayer.
