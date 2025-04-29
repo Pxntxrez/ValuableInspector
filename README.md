@@ -97,8 +97,9 @@ Below are all available configuration options.
 
 ## Developer Contact
 **Report bugs, suggest features, or provide feedback:**
-[![DonationAlerts](https://i.imgur.com/OMyWf9T.png)](https://www.donationalerts.com/r/pxntxrez)
 
 | **Discord Server** | **Channel** | **Post** |  
 |--------------------|-----------|----------|  
 | [R.E.P.O. Modding Server](https://discord.com/invite/vPJtKhYAFe) | `#released-mods` | [Valuable Inspector](https://discord.com/channels/1344557689979670578/1346055794533339217) |
+
+[![DonationAlerts](https://i.imgur.com/OMyWf9T.png)](https://www.donationalerts.com/r/pxntxrez)
