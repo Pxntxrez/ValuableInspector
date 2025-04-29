@@ -1,9 +1,7 @@
 ---
-
 ## ⚠️ IMPORTANT NOTICE: CLIENT-SIDE MOD ⚠️  
 **This mod is entirely client-side and does not affect gameplay or networking.**  
 Other players do **not** need to install it for it to work properly in multiplayer.
-
 ---
 
 [![Thunderstore Profile](https://img.shields.io/badge/Thunderstore-Profile-4065F2?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/repo/p/PxntxrezStudio/)
