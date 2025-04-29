@@ -9,8 +9,6 @@ Other players do **not** need to install it for it to work properly in multiplay
 
 ---
 
-> **If you like my work, you can:** [![DonationAlerts](https://i.imgur.com/OMyWf9T.png)](https://www.donationalerts.com/r/pxntxrez)
-
 # Valuable Inspector
 
 A HUD overlay mod for R.E.P.O. that displays live information about the **valuable object you're currently holding**.
@@ -99,6 +97,7 @@ Below are all available configuration options.
 
 ## Developer Contact
 **Report bugs, suggest features, or provide feedback:**
+[![DonationAlerts](https://i.imgur.com/OMyWf9T.png)](https://www.donationalerts.com/r/pxntxrez)
 
 | **Discord Server** | **Channel** | **Post** |  
 |--------------------|-----------|----------|  
